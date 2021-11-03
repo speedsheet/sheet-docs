@@ -1,0 +1,269 @@
+# The <#>SpeedSheets<> SpeedSheet
+<b>What you need, faster.<>
+
+
+Here lies a list of all the SpeedSheets available. They come as is, without warranty, raw, very incomplete and in desperate need of polish!
+
+
+
+# Operating Systems (OS)
+
+
+
+### Bash
+This has lots of Bash related commands.
+
+This is strictly targeted at bash itself and not commands run from bash.
+Look in the Unix SpeedSheet for the stand alone apps such as ls, netstat, ps, etc..
+
+<l>/s/bash<>
+
+
+
+### MacOS
+All things MacOS related.
+
+<l>/s/macos<>
+
+
+
+### Raspberry Pi
+Stuff for the amazing Pi!
+
+<l>/s/raspberry_pi<>
+
+
+
+### Unix
+Unix Commands, Unix stuff.
+
+<l>/s/unix<>
+
+
+
+# Development Related
+
+
+
+### Git
+Ye old git help.
+
+Yes, we have one of those too.
+
+<l>/s/git<>
+
+
+
+### HTTP
+Lost of HTTP stuff here.
+
+HTTP Commands, HTTP Errors, Ports By Service, Service By Ports, etc.
+
+<l>/s/http<>
+
+
+
+### Markdown
+Some markdown basics.
+
+<l>/s/markdown<>
+
+
+
+### Stash
+The official(?) Stash format / creation reference.
+
+Want to write your own Stash document (the document format behind SpeedSheets), look here:
+
+<l>/s/stash<>
+
+
+
+# Programming
+
+
+### Patterns
+Development Patterns
+
+<l>/s/patterns<>
+
+
+
+# Java
+
+
+### Java
+The Java programming language.
+
+This is about 1/3 of what I have and probably 1/6 of what is needed. Still it has useful stuff in it.
+
+<l>/s/java<>
+
+
+
+### Spring Boot
+Stuff to code Spring Boot applications.
+
+<l>/s/spring_boot<>
+
+
+
+# Python
+
+
+
+### Python
+Top notch core Python reference. Get what you need so you get on with your coding.
+
+<l>/s/python<>
+
+
+
+### aiogram
+An asynchronous python library for controlling a Telegram bot.
+
+<l>/s/aiogram<>
+
+
+
+### aiohttp
+A great easy to use Python library for making asyncronous http calls.
+
+<l>/s/aiohttp<>
+
+
+
+### JupyterLab
+An interactive environment for writing and documenting Python programs.
+
+<l>/s/jupyterlab<>
+@
+@ Jupyter, notebook
+
+
+
+### Matplotlib
+A Python library for creating data graphs and visualizations.
+
+<l>/s/matplotlib<>
+
+
+
+### Numpy
+An absolutely brilliant array manipulation library in Python.
+
+<l>/s/numpy<>
+
+
+
+### Pandas
+A 2d array manipulation library.
+
+<l>/s/pandas<>
+
+
+
+### Pillow
+An image manipulation library.
+
+<l>/s/pillow<>
+
+
+
+### Requests
+A great easy to use Python library for making http calls.
+
+<l>/s/requests<>
+
+
+
+# Databases
+
+
+
+### MySql
+
+<l>/s/mysql<>
+
+
+
+### Redis
+
+<l>/s/redis<>
+
+
+
+# Web Development
+
+
+
+### CSS
+CSS reference.
+
+<l>/s/css<>
+
+
+
+### HTML
+HTML reference
+
+<l>/s/html<>
+
+
+### JavaScript
+JavaScript progamming reference.
+
+<l>/s/javascript<>
+
+
+
+# Containers
+
+
+
+### Docker
+<l>/s/docker<>
+
+
+# Apps
+
+
+
+### Homebrew
+An indispencable Mac command line app installer.
+
+<l>/s/homebrew<>
+@
+@ brew, mac, macos
+
+
+
+### Sublime Text
+Amazing text editor.
+
+<l>/s/sublime_text<>
+
+
+
+### Telegram
+Telegram, the messaging app.
+
+<l>/s/telegram<>
+@
+@ messanger
+
+
+
+### Visual Studio Code
+The awesome developers text editor from Microsoft.
+
+<l>/s/visual_studio_code<>
+
+
+
+# Electronics
+The start of an electronics component reference.
+
+<l>/s/electronics<>
+
+
