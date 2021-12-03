@@ -1,23 +1,21 @@
-# The <#>SpeedSheets<> SpeedSheet
+# <#>Dev<> SpeedSheets
 <b>What you need, faster.<>
 
-
-Here lies a list of all the SpeedSheets available. They come as is, without warranty, raw, very incomplete and in desperate need of polish!
-
+This a listing of all the software development speedsheets available. There are also some hardware sheets available too.
 
 
 # Operating Systems (OS)
 
 
-
 ### Bash
 This has lots of Bash related commands.
 
-This is strictly targeted at bash itself and not commands run from bash.
+This is strictly targeted at bash scripting and not commands run from bash.
 Look in the Unix SpeedSheet for the stand alone apps such as ls, netstat, ps, etc..
 
 <l>/s/bash<>
-
+@
+@ programming language, scripting language
 
 
 ### MacOS
@@ -26,23 +24,19 @@ All things MacOS related.
 <l>/s/macos<>
 
 
-
 ### Raspberry Pi
-Stuff for the amazing Pi!
+Hardware and software informating for using your Raspberry Pi.
 
 <l>/s/raspberry_pi<>
 
 
-
 ### Unix
-Unix Commands, Unix stuff.
+Unix command line commands and other useful unix information.
 
 <l>/s/unix<>
 
 
-
-# Development Related
-
+# Apps
 
 
 ### Git
@@ -51,198 +45,22 @@ Ye old git help.
 Yes, we have one of those too.
 
 <l>/s/git<>
-
-
-
-### HTTP
-Lost of HTTP stuff here.
-
-HTTP Commands, HTTP Errors, Ports By Service, Service By Ports, etc.
-
-<l>/s/http<>
-
-
-
-### Markdown
-Some markdown basics.
-
-<l>/s/markdown<>
-
-
-
-### Stash
-The official(?) Stash format / creation reference.
-
-Want to write your own Stash document (the document format behind SpeedSheets), look here:
-
-<l>/s/stash<>
-
-
-
-# Programming
-
-
-### Patterns
-Development Patterns
-
-<l>/s/patterns<>
-
-
-
-# Java
-
-
-### Java
-The Java programming language.
-
-This is about 1/3 of what I have and probably 1/6 of what is needed. Still it has useful stuff in it.
-
-<l>/s/java<>
-
-
-
-### Spring Boot
-Stuff to code Spring Boot applications.
-
-<l>/s/spring_boot<>
-
-
-
-# Python
-
-
-
-### Python
-Top notch core Python reference. Get what you need so you get on with your coding.
-
-<l>/s/python<>
-
-
-
-### aiogram
-An asynchronous python library for controlling a Telegram bot.
-
-<l>/s/aiogram<>
-
-
-
-### aiohttp
-A great easy to use Python library for making asyncronous http calls.
-
-<l>/s/aiohttp<>
-
-
-
-### JupyterLab
-An interactive environment for writing and documenting Python programs.
-
-<l>/s/jupyterlab<>
 @
-@ Jupyter, notebook
-
-
-
-### Matplotlib
-A Python library for creating data graphs and visualizations.
-
-<l>/s/matplotlib<>
-
-
-
-### Numpy
-An absolutely brilliant array manipulation library in Python.
-
-<l>/s/numpy<>
-
-
-
-### Pandas
-A 2d array manipulation library.
-
-<l>/s/pandas<>
-
-
-
-### Pillow
-An image manipulation library.
-
-<l>/s/pillow<>
-
-
-
-### Requests
-A great easy to use Python library for making http calls.
-
-<l>/s/requests<>
-
-
-
-# Databases
-
-
-
-### MySql
-
-<l>/s/mysql<>
-
-
-
-### Redis
-
-<l>/s/redis<>
-
-
-
-# Web Development
-
-
-
-### CSS
-CSS reference.
-
-<l>/s/css<>
-
-
-
-### HTML
-HTML reference
-
-<l>/s/html<>
-
-
-### JavaScript
-JavaScript progamming reference.
-
-<l>/s/javascript<>
-
-
-
-# Containers
-
-
-
-### Docker
-<l>/s/docker<>
-
-
-# Apps
-
+@ github
 
 
 ### Homebrew
-An indispencable Mac command line app installer.
+Homebrew reference, for the indispensable MacOS app installer.
 
 <l>/s/homebrew<>
 @
 @ brew, mac, macos
 
 
-
 ### Sublime Text
-Amazing text editor.
+Reference for a great developer text editor.
 
 <l>/s/sublime_text<>
-
 
 
 ### Telegram
@@ -253,17 +71,174 @@ Telegram, the messaging app.
 @ messanger
 
 
-
 ### Visual Studio Code
-The awesome developers text editor from Microsoft.
+Reference for Microsofts developer text editor.
 
 <l>/s/visual_studio_code<>
 
 
+# Containers
 
-# Electronics
-The start of an electronics component reference.
 
-<l>/s/electronics<>
+### Docker
+<l>/s/docker<>
+
+
+# Documents
+
+
+### LaTeX
+Reference for LaTeX, a syntax for displaying mathematical formulas. 
+
+<l>/s/latex<>
+
+
+### Markdown
+Covers the markdown document syntax.
+
+<l>/s/markdown<>
+
+
+### Stash
+The official references for Stash / Speedsheet documents.
+
+Want to write your own Stash document (the document format behind SpeedSheets), look here.
+
+<l>/s/stash<>
+@
+@ speedsheet
+
+
+# Databases
+
+
+### MySql
+MySql reference.
+
+<l>/s/mysql<>
+
+
+### PostreSQL
+PostreSQL reference.
+
+<l>/s/postgresql<>
+
+
+### Redis
+Redis in memory database reference.
+
+<l>/s/redis<>
+
+
+# Java
+
+### Java
+The Java programming language.
+
+<l>/s/java<>
+@
+@ programming language
+
+
+### Spring Boot
+Reference for the Spring Boot framework for java.
+
+<l>/s/spring_boot<>
+
+
+# Python
+
+
+### Python
+Top notch core Python reference for the Python programming language.
+Get what you need so you get on with your coding.
+
+<l>/s/python<>
+@
+@ programming language, scripting language
+
+
+### aiogram
+A reference for aiogram, an asynchronous python library for controlling a Telegram bot.
+
+<l>/s/aiogram<>
+
+
+### aiohttp
+Reference for aiohttp, great and easy to use Python library for making asyncronous http calls.
+
+<l>/s/aiohttp<>
+
+
+### Jupyter
+Reference for Jupyter / Jupyter Labs, an interactive environment for writing and documenting Python, R and other programs.
+
+<l>/s/jupyter<>
+@
+@ Jupyter lab, notebook, python, r
+
+
+### Matplotlib
+Reference for matplotlib, a Python library for creating data graphs and visualizations.
+
+<l>/s/matplotlib<>
+
+
+### Numpy
+An absolutely brilliant array manipulation library in Python.
+
+<l>/s/numpy<>
+
+
+### Pandas
+A 2d array manipulation library.
+
+<l>/s/pandas<>
+
+
+### Pillow
+An image manipulation library.
+
+<l>/s/pillow<>
+
+
+### Requests
+A great easy to use Python library for making http calls.
+
+<l>/s/requests<>
+
+
+# Web Development
+
+
+### CSS
+CSS reference.
+
+<l>/s/css<>
+
+
+### HTML
+HTML reference.
+
+<l>/s/html<>
+
+
+### JavaScript
+JavaScript programming reference.
+
+<l>/s/javascript<>
+@
+@ programming language, scripting language
+
+
+# Web General
+
+
+### HTTP
+HTTP Commands, HTTP Errors, Ports By Service, Service By Ports, etc.
+
+<l>/s/http<>
+
+
 
 
