@@ -4,6 +4,15 @@
 This a listing of all the software development speedsheets available. There are also some hardware sheets available too.
 
 
+# Update a SpeedSheet?
+
+If you want to make an update, the source for all these sheets are available is GitHub:
+
+<l "https://github.com/speedsheet?tab=repositories&q=&type=&language=&sort=name">SpeedSheet Source on GitHub<>
+
+
+
+
 # Operating Systems (OS)
 
 
@@ -133,11 +142,21 @@ PostreSQL reference.
 
 <l>/s/postgresql<>
 
+<!>⚠️ There is no content on this sheet.<>
+
+Want to make updates? You can on the github repo:
+<l>https://github.com/speedsheet/sheet-database-postgresql<>
+
 
 ### Redis
 Redis in memory database reference.
 
 <l>/s/redis<>
+
+ℹ️ This is in early stages of development
+
+Want to make updates? You can on the github repo:
+<l>https://github.com/speedsheet/sheet-database-redis<>
 
 
 # Java
@@ -193,6 +212,11 @@ Reference for matplotlib, a Python library for creating data graphs and visualiz
 
 <l>/s/matplotlib<>
 
+<!>⚠️ There is almost no content on this sheet.<>
+
+Want to make updates? You can on the github repo:
+<l>https://github.com/speedsheet/sheet-python-matplotlib<>
+
 
 ### Numpy
 An absolutely brilliant array manipulation library in Python.
@@ -204,6 +228,12 @@ An absolutely brilliant array manipulation library in Python.
 A 2d array manipulation library.
 
 <l>/s/pandas<>
+
+<!>⚠️ There is almost no content on this sheet.<>
+
+Want to make updates? You can on the github repo:
+
+<l>https://github.com/speedsheet/sheet-python-pandas<>
 
 
 ### Pillow
@@ -225,6 +255,8 @@ A great easy to use Python library for making http calls.
 Rust programming language
 
 <l>/s/rust<>
+
+ℹ️ This is in early stages of development
 
 
 # Web Development
