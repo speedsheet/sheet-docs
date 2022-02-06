@@ -23,6 +23,7 @@ Python:
 <col>aiogram<><col><l "/s/aiogram">aiogram Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-aiogram">github<>)<>
 <col>aiohttp<><col><l "/s/aiohttp">aiohttp Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-aiohttp">github<>)<>
 <col>BeautifulSoup<><col><l "/s/beautifulsoup">BeautifulSoup Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-beautifulsoup">github<>)<>
+<col>Jinja<><col><l "/s/jinja">Jinja Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-jinja">github<>)<>
 <col>Jupyter<><col><l "/s/jupyter">Jupyter Sheet<><><col>(<l "https://github.com/speedsheet/sheet-app-jupyter">github<>)<>
 <col>Numpy<><col><l "/s/numpy">Numpy Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-numpy">github<>)<>
 <col>Pillow<><col><l "/s/pillow">Pillow Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-pillow">github<>)<>
