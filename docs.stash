@@ -1,10 +1,8 @@
-# One Sheet To Rule Them All
-<b>All development SpeedSheets.<>
+# One Sheet To Rule Them All.
 
-This a listing of all the software development speedsheets available. There are also hardware sheets available too.
+This a listing of all the software development and related speedsheets.
 
 ℹ️ Many of these documents are in early stages of development. Some are empty.
-
 ℹ️ All are formated in <l "/s/stash">Stash format<>.
 
 
@@ -24,10 +22,9 @@ Python:
 <in><table><col>Python<><col><l "/s/python">Python Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python">github<>)<>
 <col>aiogram<><col><l "/s/aiogram">aiogram Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-aiogram">github<>)<>
 <col>aiohttp<><col><l "/s/aiohttp">aiohttp Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-aiohttp">github<>)<>
+<col>BeautifulSoup<><col><l "/s/beautifulsoup">BeautifulSoup Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-beautifulsoup">github<>)<>
 <col>Jupyter<><col><l "/s/jupyter">Jupyter Sheet<><><col>(<l "https://github.com/speedsheet/sheet-app-jupyter">github<>)<>
-<col>Matplotlib<><col><l "/s/matplotlib">Matplotlib Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-matplotlib">github<>)<>
 <col>Numpy<><col><l "/s/numpy">Numpy Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-numpy">github<>)<>
-<col>Pandas<><col><l "/s/pandas">Pandas Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-pandas">github<>)<>
 <col>Pillow<><col><l "/s/pillow">Pillow Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-pillow">github<>)<>
 <col>Requests<><col><l "/s/requests">Requests Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-requests">github<>)<>
 <col>tkinter<><col><l "/s/tkinter">tkinter Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-tkinter">github<>)<>
@@ -46,33 +43,30 @@ Web:
 Databases:
 
 <in><table><col>MySQL<><col><l "/s/mysql">MySQL Sheet<><><col>(<l "https://github.com/speedsheet/sheet-database-mysql">github<>)<>
-<col>PostgreSQL<><col><l "/s/postgresql">PostgreSQL Sheet<><><col>(<l "https://github.com/speedsheet/sheet-database-postgresql">github<>)<>
 <col>Redis<><col><l "/s/redis">Redis Sheet<><><col>(<l "https://github.com/speedsheet/sheet-database-redis">github<>)<>
 <col>			<><col>					<><><>
 OSs:
 
 <in><table><col>MacOS<><col><l "/s/macos">MacOS Sheet<><><col>(<l "https://github.com/speedsheet/sheet-os-macos">github<>)<>
 <col>Raspberry Pi<><col><l "/s/raspberry_pi">Raspberry Pi Sheet<><><col>(<l "https://github.com/speedsheet/sheet-raspberry-pi">github<>)<>
-<col>Unix<><col><l "/s/unix">Unix Sheet<><><col>(<l "https://github.com/speedsheet/sheet-os-unix">github<>)<>
+<col>Unix Commands<><col><l "/s/unix">Unix Sheet<><><col>(<l "https://github.com/speedsheet/sheet-os-unix">github<>)<>
 <col>Windows<><col><l "/s/windows">Windows Sheet<><><col>(<l "https://github.com/speedsheet/sheet-os-windows">github<>)<>
 <col>			<><col>					<><><>
-Documents:
+Reference:
 
 <in><table><col>ASCII<><col><l "/s/ascii">ASCII Sheet<><><col>(<l "https://github.com/speedsheet/sheet-doc-ascii">github<>)<>
 <col>LaTex<><col><l "/s/latex">LaTex Sheet<><><col>(<l "https://github.com/speedsheet/sheet-doc-latex">github<>)<>
 <col>Markdown<><col><l "/s/markdown">Markdown Sheet<><><col>(<l "https://github.com/speedsheet/sheet-doc-markdown">github<>)<>
 <col>Stash<><col><l "/s/stash">Stash Sheet<><><col>(<l "https://github.com/speedsheet/sheet-doc-stash">github<>)<>
+<col> <>
+<col>HTTP<><col><l "/s/http">HTTP Sheet<><><col>(<l "https://github.com/speedsheet/sheet-http">github<>)<>
+<col>Regular Expr.<><col><l "/s/regular_expressions">Regular Expressions Sheet<><><col>(<l "https://github.com/speedsheet/sheet-regular-expressions">github<>)<>
 <col>			<><col>					<><><>
 Developer Extras:
 
-<in><table><col>Git<><col><l "/s/git">Git Sheet<><><col>(<l "https://github.com/speedsheet/sheet-git">github<>)<>
-<col>HTTP<><col><l "/s/http">HTTP Sheet<><><col>(<l "https://github.com/speedsheet/sheet-http">github<>)<>
-<col> <>
-<col>Regular Expr.<><col><l "/s/regular_expressions">Regular Expressions Sheet<><><col>(<l "https://github.com/speedsheet/sheet-regular-expressions">github<>)<>
-<col>			<><col>					<><><>
-Containers:
-
-<in><table><col>Docker<><col><l "/s/docker">Docker Sheet<><><col>(<l "https://github.com/speedsheet/sheet-docker">github<>)<>
+<in><table><col>Data Dictionary<><col><l "/s/data_dictionary">Data Dictionary Sheet<><><col>(<l "https://github.com/speedsheet/sheet-data-dictionary">github<>)<>
+<col>Docker<><col><l "/s/docker">Docker Sheet<><><col>(<l "https://github.com/speedsheet/sheet-docker">github<>)<>
+<col>Git<><col><l "/s/git">Git Sheet<><><col>(<l "https://github.com/speedsheet/sheet-git">github<>)<>
 <col>			<><col>					<><><>
 
 
@@ -167,7 +161,16 @@ Reference for Microsofts developer text editor.
 # Development Tools
 
 
+### Data Dictionary
+
+Contains type and length information for common data types.
+
+<l>"/s/data_dictionary<>
+
+
 ### HTTP
+HTTP reference. Contains HTTP error codes, mime types, port lookup tables, etc..
+
 <l>/s/http<>
 @
 @ regex
@@ -285,6 +288,14 @@ A reference for aiogram, an asynchronous python library for controlling a Telegr
 Reference for aiohttp, great and easy to use Python library for making asyncronous http calls.
 
 <l>/s/aiohttp<>
+
+
+### BeautifulSoup
+Reference for BeautifulSoup, an easy to use Python library for parsing HTML and XML.
+
+<l>/s/beautifulsoup<>
+@
+@ beautifulsoup4, bs4, beautiful soup,
 
 
 ### Jupyter
