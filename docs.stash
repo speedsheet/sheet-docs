@@ -50,7 +50,7 @@ OSs:
 
 <in><table><col>MacOS<><col><l "/s/macos">MacOS Sheet<><><col>(<l "https://github.com/speedsheet/sheet-os-macos">github<>)<>
 <col>Raspberry Pi<><col><l "/s/raspberry_pi">Raspberry Pi Sheet<><><col>(<l "https://github.com/speedsheet/sheet-raspberry-pi">github<>)<>
-<col>Unix Commands<><col><l "/s/unix">Unix Sheet<><><col>(<l "https://github.com/speedsheet/sheet-os-unix">github<>)<>
+<col>Linux Commands<><col><l "/s/linux">Linux Sheet<><><col>(<l "https://github.com/speedsheet/sheet-os-linux">github<>)<>
 <col>Windows<><col><l "/s/windows">Windows Sheet<><><col>(<l "https://github.com/speedsheet/sheet-os-windows">github<>)<>
 <col>			<><col>					<><><>
 Reference:
@@ -86,11 +86,19 @@ If you want to make an update, the source for all these sheets is available on G
 This has lots of Bash related commands.
 
 This is strictly targeted at bash scripting and not commands run from bash.
-Look in the Unix SpeedSheet for the stand alone apps such as ls, netstat, ps, etc..
+Look in the Linux SpeedSheet for the stand alone apps such as ls, netstat, ps, etc..
 
 <l>/s/bash<>
 @
 @ programming language, scripting language
+
+
+### Linux
+Linux command line commands and other useful Linux information.
+
+<l>/s/linux<>
+@
+@ unix, bsd
 
 
 ### MacOS
@@ -103,12 +111,6 @@ All things MacOS related.
 Hardware and software informating for using your Raspberry Pi.
 
 <l>/s/raspberry_pi<>
-
-
-### Unix
-Unix command line commands and other useful unix information.
-
-<l>/s/unix<>
 
 
 # Apps
@@ -299,6 +301,14 @@ Reference for BeautifulSoup, an easy to use Python library for parsing HTML and 
 @ beautifulsoup4, bs4, beautiful soup,
 
 
+### Jinja
+Reference for Jinja, a template generator library for Python.
+
+<l>/s/jinja<>
+@
+@ templates, web scraping
+
+
 ### Jupyter
 Reference for Jupyter / Jupyter Labs, an interactive environment for writing and documenting Python, R and other programs.
 
@@ -340,6 +350,14 @@ Want to make updates? You can on the github repo:
 An image manipulation library.
 
 <l>/s/pillow<>
+
+
+### pynput
+A Python library for monitoring and controlling the keyboard and mouse.
+
+<!>⚠️ Covers sending keystrokes only.<>
+
+<l>/s/pynput<>
 
 
 ### Requests
