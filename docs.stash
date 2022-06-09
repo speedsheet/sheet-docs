@@ -27,7 +27,11 @@ Python:
 <col>Jupyter<><col><l "/s/jupyter">Jupyter Sheet<><><col>(<l "https://github.com/speedsheet/sheet-app-jupyter">github<>)<>
 <col>Numpy<><col><l "/s/numpy">Numpy Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-numpy">github<>)<>
 <col>Pillow<><col><l "/s/pillow">Pillow Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-pillow">github<>)<>
+<col>Poetry<><col><l "/s/poetry">Poetry Sheet<><>
+<col>pynput<><col><l "/s/pynput">pynput Sheet<><>
+<col>pytest<><col><l "/s/pytest">pytest Sheet<><>
 <col>Requests<><col><l "/s/requests">Requests Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-requests">github<>)<>
+<col>Poetry<><col><l "/s/poetry">Poetry Sheet<><>
 <col>tkinter<><col><l "/s/tkinter">tkinter Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-tkinter">github<>)<>
 <col>			<><col>					<><><>
 Java:
@@ -352,12 +356,24 @@ An image manipulation library.
 <l>/s/pillow<>
 
 
+### Poetry
+A package manager and package generating utility.
+
+<l>/s/pillow<>
+
+
 ### pynput
 A Python library for monitoring and controlling the keyboard and mouse.
 
 <!>⚠️ Covers sending keystrokes only.<>
 
 <l>/s/pynput<>
+
+
+### pytest
+A Python unit testing library.
+
+<l>/s/pytest<>
 
 
 ### Requests
