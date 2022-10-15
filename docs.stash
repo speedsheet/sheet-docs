@@ -22,7 +22,7 @@ Python:
 <in><table><col>Python<><col><l "/s/python">Python Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python">github<>)<>
 <col>aiogram<><col><l "/s/aiogram">aiogram Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-aiogram">github<>)<>
 <col>aiohttp<><col><l "/s/aiohttp">aiohttp Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-aiohttp">github<>)<>
-<col>BeautifulSoup<><col><l "/s/beautifulsoup">BeautifulSoup Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-beautifulsoup">github<>)<>
+<col>Beautiful Soup<><col><l "/s/beautiful_soup">Beautiful Soup Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-beautiful-soup">github<>)<>
 <col>Jinja<><col><l "/s/jinja">Jinja Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-jinja">github<>)<>
 <col>Jupyter<><col><l "/s/jupyter">Jupyter Sheet<><><col>(<l "https://github.com/speedsheet/sheet-app-jupyter">github<>)<>
 <col>Numpy<><col><l "/s/numpy">Numpy Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-numpy">github<>)<>
@@ -31,7 +31,6 @@ Python:
 <col>pynput<><col><l "/s/pynput">pynput Sheet<><>
 <col>pytest<><col><l "/s/pytest">pytest Sheet<><>
 <col>Requests<><col><l "/s/requests">Requests Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-requests">github<>)<>
-<col>Poetry<><col><l "/s/poetry">Poetry Sheet<><>
 <col>tkinter<><col><l "/s/tkinter">tkinter Sheet<><><col>(<l "https://github.com/speedsheet/sheet-python-tkinter">github<>)<>
 <col>			<><col>					<><><>
 Java:
@@ -214,6 +213,18 @@ Covers the markdown document syntax.
 <l>/s/markdown<>
 
 
+### Markdown - Reddit
+Covers the Reddit specific markdown document syntax.
+
+<l>/s/reddit_markdown<>
+
+
+### reStructuredText
+Covers the reStructuredText document syntax (similar to markdown).
+
+<l>/s/restructuredtext<>
+
+
 ### Stash
 The official references for Stash / Speedsheet documents.
 
@@ -297,10 +308,10 @@ Reference for aiohttp, great and easy to use Python library for making asyncrono
 <l>/s/aiohttp<>
 
 
-### BeautifulSoup
-Reference for BeautifulSoup, an easy to use Python library for parsing HTML and XML.
+### Beautiful Soup
+Reference for Beautiful Soup, an easy to use Python library for parsing HTML and XML.
 
-<l>/s/beautifulsoup<>
+<l>/s/beautiful_soup<>
 @
 @ beautifulsoup4, bs4, beautiful soup,
 
