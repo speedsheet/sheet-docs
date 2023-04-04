@@ -161,6 +161,8 @@ Reference for Microsofts developer text editor.
 
 
 ### Docker
+Docker and Docker Compose reference.
+
 <l>/s/docker<>
 
 
@@ -171,7 +173,7 @@ Reference for Microsofts developer text editor.
 
 Contains type and length information for common data types.
 
-<l>"/s/data_dictionary<>
+<l>/s/data_dictionary<>
 
 
 ### HTTP
